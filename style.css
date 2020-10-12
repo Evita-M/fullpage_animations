@@ -17,7 +17,7 @@ body {
 }
 
 .s1 {
-  background-image: url("/couch.jpg");
+  background-image: url("couch.jpg");
   background-size: cover;
 }
 
